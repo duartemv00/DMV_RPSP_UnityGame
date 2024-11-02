@@ -1,3 +1,5 @@
-"Rock, Paper & Scissors & PARRY" is a fun little concept for a mobile game. You have to decide between Rock, Paper or Scissors without knowning what the enemy selected (like in the classic game). But here is the chatch. Then an small window of opportunity is given to you to change your selection after looking at what the enemy selected. But be careful! The enemies can change their selections too!
+"Rock, Paper & Scissors & PARRY" is a fun little concept for a mobile game made with the Unity engine. 
+
+Like in the classic game, you have to decide between rock, paper or scissors without knowning what the opponent selected. But know that you know what the opponent selected, an very small window of opportunity is given to you to change your election. Be careful! The rivals can change their selection too!
 
 You can watch a [Gameplay](https://www.youtube.com/watch?v=lbSKrHfM3zM) of the game.
